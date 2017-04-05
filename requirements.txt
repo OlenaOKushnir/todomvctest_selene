@@ -1,0 +1,13 @@
+colorama==0.3.7
+enum34==1.1.6
+future==0.16.0
+lxml==3.4.2
+namedlist==1.7
+py==1.4.32
+pytest==2.9.0
+pytest-allure-adaptor==1.7.6
+selene==0.0.8
+selenium==2.53.1
+six==1.10.0
+backports.functools_lru_cache
+webdriver_manager
